@@ -1,0 +1,58 @@
+.title {
+  color: "#0099DD";
+  font-family: retrolab;
+  text-align: center;
+  margin: 2%;
+  font-size: 50px; 
+}
+
+.social-icon{
+color: black;
+transition: color 0.2s;
+text-decoration: none;
+margin: 0 5px ;
+font-size: 50px;
+}
+
+.social-icon:hover{
+  color: #3AB0FF;
+}
+
+.job {
+font-family: retrolab;
+color: black;
+transition: color 0.2s;
+text-decoration: none;
+font-size: 20px;
+}
+
+.job:hover{ 
+  color: #3AB0FF; 
+}
+
+#left {
+width: 50%;
+float: left;
+}
+
+#right{
+width: 50%;
+float: right;
+text-align: right;
+}
+
+#biography {
+  text-align: center;
+  font-family: Arial;
+  margin-right: 300px;
+  margin-left: 300px;
+}
+
+#socials{
+  text-align: center;
+}
+
+body{
+  margin: 50px;
+}
+
